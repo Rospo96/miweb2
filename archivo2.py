@@ -11,5 +11,7 @@ def menorQue(num1,num2):
     else:
         print("Ambos números son iguales", num1,num2)
         
-menorQue(3,6)    
+menorQue(3,6)
+menorQue(3,6)   
+   
     
