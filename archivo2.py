@@ -14,4 +14,6 @@ def menorQue(num1,num2):
 menorQue(3,6)
 menorQue(3,6)   
    
-    
+print(miSecondArchivo)
+print(miSecondArchivo)
+print(miSecondArchivo)
